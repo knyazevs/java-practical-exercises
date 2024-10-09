@@ -1,4 +1,5 @@
 # Практические задания по Java
+Основанные не лекции [Синтаксис Java](https://docs.google.com/presentation/d/1NOYd2ss7c_ZPzLSv2dsR1gH6ciZllg13/edit?rtpof=true&sd=true)
 
 **О работе**:
 Выполненными заданиями считаются сданные лично или отправленные онлайн в виде файлов или ссылкой на профиль github. 
