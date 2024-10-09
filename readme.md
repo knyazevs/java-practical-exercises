@@ -1,6 +1,6 @@
 # Практические задания по Java
 
-**Задания**:
+**О работе**:
 Выполненными заданиями считаются сданные лично или отправленные онлайн в виде файлов или ссылкой на профиль github. 
 Студент, не выполнивший заданий в указанное время практического заданий в первом модуле, может сдать на следующих занятиях или показать результат вне урочного времени без снижения коэффициента в первом модуле. В последующих модулях вводятся штрафные коэффициенты.
 
@@ -18,6 +18,13 @@
 
  Выполнение задания осуществляется в интегрированной среде разработки (IDE) JDoodle - https://www.jdoodle.com/online-java-compiler
  
+ # Задания
+ * [Задание 1](https://github.com/knyazevs/java-practical-exercises/blob/main/Task1.java)
+ * [Задание 2](https://github.com/knyazevs/java-practical-exercises/blob/main/Task2.java)
+ * [Задание 3](https://github.com/knyazevs/java-practical-exercises/blob/main/Task3.java)
+ * [Задание 4](https://github.com/knyazevs/java-practical-exercises/blob/main/Task4.java)
+ * [Задание 5](https://github.com/knyazevs/java-practical-exercises/blob/main/Task5.java)
+ * [Задание 6](https://github.com/knyazevs/java-practical-exercises/blob/main/Task6.java)
 
 ### Критерии оценки: 
  * Практические работы не менее 50% сдано
