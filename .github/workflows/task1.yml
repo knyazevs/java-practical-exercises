@@ -24,4 +24,6 @@ jobs:
       run: javac Task1.java
 
     - name: Run Java code
-      run: java Task1
+      run: |
+        java Main > output.log 2>&1
+        cat output.log
