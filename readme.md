@@ -32,4 +32,5 @@
  * Посещаемость лекционных занятий не менее 60%.
 
 Дока:
-[Установка Java](https://github.com/knyazevs/java-practical-exercises/blob/main/docs/Install_JDK_JRE.md)
+* [Установка Java](https://github.com/knyazevs/java-practical-exercises/blob/main/docs/Install_JDK_JRE.md)
+* [IDE](https://github.com/knyazevs/java-practical-exercises/blob/main/docs/IDE.md)
