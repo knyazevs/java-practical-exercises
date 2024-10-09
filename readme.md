@@ -16,7 +16,7 @@
  * Массивы - https://metanit.com/java/tutorial/2.4.php
  * Консольный ввод/вывод в Java - https://metanit.com/java/tutorial/2.9.php
 
- Выполнение задания осуществляется в интегрированной среде разработки (IDE) JDoodle - https://www.jdoodle.com/online-java-compiler
+ Выполнение задания рекоменуется в интегрированной среде разработки (IDE) JDoodle - https://www.jdoodle.com/online-java-compiler
  
  # Задания
  * [Задание 1](https://github.com/knyazevs/java-practical-exercises/blob/main/Task1.java)
