@@ -25,5 +25,5 @@ jobs:
 
     - name: Run Java code
       run: |
-        java Main > output.log 2>&1
+        java Task1 > output.log 2>&1
         cat output.log
