@@ -16,6 +16,8 @@
  * Циклы - https://metanit.com/java/tutorial/2.6.php
  * Массивы - https://metanit.com/java/tutorial/2.4.php
  * Консольный ввод/вывод в Java - https://metanit.com/java/tutorial/2.9.php
+ * Коллекции - массивы, списки - https://metanit.com/java/tutorial/5.1.php
+ * Классы и методы - https://metanit.com/java/tutorial/3.1.php
 
  Выполнение задания рекоменуется в интегрированной среде разработки (IDE) JDoodle - https://www.jdoodle.com/online-java-compiler
  
@@ -26,6 +28,12 @@
  * [Задание 4](https://github.com/knyazevs/java-practical-exercises/blob/main/Task4.java)
  * [Задание 5](https://github.com/knyazevs/java-practical-exercises/blob/main/Task5.java)
  * [Задание 6](https://github.com/knyazevs/java-practical-exercises/blob/main/Task6.java)
+ * [Задание 7](https://github.com/knyazevs/java-practical-exercises/blob/main/Task7.java)
+ * [Задание 8](https://github.com/knyazevs/java-practical-exercises/blob/main/Task8.java)
+ * [Задание 9](https://github.com/knyazevs/java-practical-exercises/blob/main/Task9.java)
+
+ # Доп. задание
+ * [Задание 9](https://github.com/knyazevs/java-practical-exercises/blob/main/ExtraTask.java)
 
 ### Критерии оценки: 
  * Практические работы не менее 50% сдано
